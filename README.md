@@ -1,5 +1,5 @@
-# 헛소리 제조기
+# 잡소리 생성기
 
-https://hutsor.github.io/hutsori
+https://hutsor.github.io/jobsori
 
-헛소리를 만듭니다. 네.
+잡소리를 만듭니다. 네.
